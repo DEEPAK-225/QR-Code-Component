@@ -1,4 +1,3 @@
-
 # QR Code Component Project
 This project is a simple QR code component built using HTML and CSS. The design follows a clean and minimalistic approach to improve front-end skills by creating a reusable UI component. It is inspired by Frontend Mentor challenges to enhance coding skills by focusing on project-based learning.
 
@@ -28,11 +27,8 @@ Open index.html in your browser to view the QR code component.
 ### Tech Stack
 #### HTML5
 #### CSS3
- 
-### Screenshot
 
-![](./Screenshot.jpg)
+### Live site URL:
+[QR Code Component](https://deepak-225.github.io/QR-Code-Component/)
 
-### Links
-- Live Site URL: [](https://deepak-225.github.io/QR-Code-Component/)
 
